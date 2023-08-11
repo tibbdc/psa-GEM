@@ -8,11 +8,11 @@ This repository contains the latest version of psa-GEM, genome-scale metabolic m
 
 #### Model Keywords
 
-**Utilisation:**  experimental data reconstruction; multi-omics integrative analysis;, _in silico_ strain design 
+**Utilisation:**  experimental data reconstruction; multi-omics integrative analysis;, _in silico_ strain design   
 **Field:** metabolic-network reconstruction
-**Type of model:** reconstruction; curated   
-**Omic source:** genomics; metabolomics 
-**Taxonomy:**  _Pseudomonas stutzeri_ 
+**Type of model:** reconstruction; curated     
+**Omic source:** genomics; metabolomics   
+**Taxonomy:**  _Pseudomonas stutzeri_   
 **Metabolic system:** general metabolism  
 **Tissue:**  
 **Bioreactor:**    
