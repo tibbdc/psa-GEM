@@ -1,67 +1,60 @@
-> Introduction (please delete after reading):  
-[standard-GEM](https://github.com/MetabolicAtlas/standard-GEM) is a template repository that aims to standardize the format of genome-scale metabolic models (GEMs) versioned with git. In addition to encouraging the open-sourcing of GEMs, it facilitates the import of GEMs into databases and online websites. Moreover, it provides the community with a familiar structure that is easy to adopt through this repository itself. The template comes with a set of requirements and recommendations, packaged as to-do items in a hidden Markdown file in this repository `.standard-GEM.md`. After downloading this repository, or using it as a template, those to-do items provide guidance to how adherence to the standard can be obtained.
-
-> Instructions for this `README` (please delete after reading):  
-This is the `README.md` template provided by [standard-GEM](https://github.com/MetabolicAtlas/standard-GEM) and was crafted to cover most use-cases.  
-Feel free to edit this template `README`. Blanks are indicated by `{{ test }}`. One may use a search function to find these `{{`. Here are some examples of blanks used throughout this file: `{{organization or username}}` is the organization name or username for this GitHub repository, eg. `SysBioChalmers`; `{{repository name}}` is the name of this GitHub repository, eg. `yeast-GEM`.  
-If you find this template does not fit your needs, we would appreciate if you could report this by creating a new issue on [standard-GEM](https://github.com/MetabolicAtlas/standard-GEM/issues).
-
-
-## {{repository name}}: {{repository description}}
-
-[![Version](https://badge.fury.io/gh/{{organization or username}}%2F{{repository name}}.svg)](https://badge.fury.io/gh/sysbiochalmers/yeast-gem)  
-[![Zenodo](https://zenodo.org/badge/{{Zenodo ID}}.svg)](https://zenodo.org/badge/latestdoi/{{Zenodo ID}})  
-[![Gitter chat](https://badges.gitter.im/{{organization or username}}/{{repository name}}.svg)](https://gitter.im/{{organization or username}}/{{repository name}})
+# psa-GEM: The genome-scale metabolic model of _Pseudomonas stutzeri_ A1501
 
 
 #### Description
 
-{{ fill in a short description or the paper abstract }}
+This repository contains the latest version of psa-GEM, genome-scale metabolic model of _Pseudomonas stutzeri_ A1501.
 
 
-#### Citation
+#### Model Keywords
 
-{{ provide the citation once available, for example:
-  > Lu, H., Li, F., Sánchez, B.J. et al (2019). A consensus S. cerevisiae metabolic model Yeast8 and its ecosystem for comprehensively probing cellular metabolism. Nat Commun 10, 3586 [doi:10.1038/s41467-019-11581-3](https://doi.org/10.1038/s41467-019-11581-3)
-
-}}
-
-
-#### Keywords
-
-> Keywords are be separated by semicolons.
-> The `Model source` field contains the source(s) of the current model, eg existing GEMs. If possible, use the Markdown format to add the URL with the DOI.
-
-**Utilisation:** {{ experimental data reconstruction; multi-omics integrative analysis;, _in silico_ strain design; model template }}  
-**Field:** {{ metabolic-network reconstruction }}  
-**Type of model:** {{ reconstruction; curated }}  
-**Model source:** {{ [YeastMetabolicNetwork](http://doi.org/10.1038/nbt1492) }}  
-**Omic source:** {{ genomics; metabolomics }}  
-**Taxonomy:** {{ _Saccharomyces cerevisiae_ }}  
-**Metabolic system:** {{ general metabolism }}  
+**Utilisation:**  experimental data reconstruction; multi-omics integrative analysis;, _in silico_ strain design 
+**Field:** metabolic-network reconstruction
+**Type of model:** reconstruction; curated   
+**Omic source:** genomics; metabolomics 
+**Taxonomy:**  _Pseudomonas stutzeri_ 
+**Metabolic system:** general metabolism  
 **Tissue:**  
 **Bioreactor:**    
 **Cell type:**  
 **Cell line:**  
-**Strain:** {{ S288C }}  
-**Condition:** {{ aerobic; glucose-limited; defined media }}  
+**Strain:** A1501  
+**Condition:** generic metabolism 
+
+
+### Model Overview
+
+|Taxonomy  | Reactions | Metabolites| Genes |
+| ------------- |:-------------:|:-------------:|:-----:|
+|_Pseudomonas stutzeri_ |  1420  | 1203 | 1108 |
 
 
 ### Installation
 
-{{ Be mindful of users who do not have a typical background - provide a clear overview of the required software. Also, there might be different requirements for users and collaborators. }}
+To create a stand-alone environment named psaGEM with Python 3 and all the required package versions (especially for cobrapy is also available), run the following code:
+
+```shell
+$ conda create -n psaGEM python=3
+```
+```shell
+$ conda activate psaGEM
+```
+```shell
+$ pip install ipykernel  
+$ python -m ipykernel install --user --name psaGEM --display-name "psaGEM"  
+$ pip install pandas
+$ pip install cobra
+```
+  You can read more about using conda environments in the [Managing Environments](http://conda.pydata.org/docs/using/envs.html) section of the conda documentation. 
 
 
 ### Usage
 
-{{ Describe how to load and save the model. }}
+#### 1.calculate growth rate.ipynb
+
+#### 2.substrate utilization biolog.ipynb
 
 
 ### Contributing
 
 Contributions are always welcome! Please read the [contributing guideline](.github/CONTRIBUTING.md) to get started.
-
-
-### Contributors
-
-Code contributors are reported automatically by GitHub under [Contributors](https://github.com/{{organization or username}}/{{repository name}}/graphs/contributors), while other contributions come in as [Issues](https://github.com/{{organization or username}}/{{repository name}}/issues).
