@@ -23178,7 +23178,7 @@
 }
 },
 {
-"id":"ADD_sper",
+"id":"rxn00127",
 "name":"",
 "metabolites":{
 "cpd00011_c0":1.0,
@@ -23194,7 +23194,7 @@
 }
 },
 {
-"id":"ADD_met1p",
+"id":"EXpd02791",
 "name":"",
 "metabolites":{
 "cpd02791_c0":-1.0
@@ -23238,7 +23238,7 @@
 }
 },
 {
-"id":"R03471",
+"id":"rxn02484",
 "name":"",
 "metabolites":{
 "cpd00002_c0":-1.0,
@@ -23296,7 +23296,7 @@
 }
 },
 {
-"id":"ADD_TPP5",
+"id":"rxn42709",
 "name":"",
 "metabolites":{
 "cpd00005_c0":-1.0,
@@ -23316,7 +23316,7 @@
 }
 },
 {
-"id":"ADD_TPP6",
+"id":"EXpd01042",
 "name":"",
 "metabolites":{
 "cpd01042_c0":-1.0
@@ -23329,7 +23329,7 @@
 }
 },
 {
-"id":"ADD_TPP7",
+"id":"EXpd03091",
 "name":"",
 "metabolites":{
 "cpd03091_c0":-1.0
@@ -23408,7 +23408,7 @@
 }
 },
 {
-"id":"R10343",
+"id":"rxn25164",
 "name":"succinyl-CoA:acetate CoA-transferase",
 "metabolites":{
 "cpd00022_c0":1.0,
@@ -23769,7 +23769,7 @@
 }
 },
 {
-"id":"R03397",
+"id":"rxn02440",
 "name":"GDP-6-deoxy-D-mannose:NAD+ 4-oxidoreductase",
 "metabolites":{
 "cpd00005_c0":1.0,
@@ -23786,7 +23786,7 @@
 }
 },
 {
-"id":"R02601",
+"id":"rxn01893",
 "name":"2-oxopent-4-enoate hydratase",
 "metabolites":{
 "cpd00001_c0":-1.0,
@@ -23801,7 +23801,7 @@
 }
 },
 {
-"id":"R01148",
+"id":"rxn00849",
 "name":"D-Alanine:2-oxoglutarate aminotransferase",
 "metabolites":{
 "cpd00020_c0":1.0,
@@ -23817,7 +23817,7 @@
 }
 },
 {
-"id":"R00704",
+"id":"rxn00499",
 "name":"(R)-Lactate:NAD+ oxidoreductase",
 "metabolites":{
 "cpd00003_c0":-1.0,
@@ -23852,7 +23852,7 @@
 }
 },
 {
-"id":"R07265",
+"id":"rxn05026",
 "name":"alpha,alpha-trehalose:phosphate alpha-D-glucosyltransferase",
 "metabolites":{
 "cpd00009_c0":-1.0,
@@ -23885,7 +23885,7 @@
 }
 },
 {
-"id":"R02521",
+"id":"rxn01827",
 "name":"4-Hydroxyphenylpyruvate:oxygen oxidoreductase",
 "metabolites":{
 "cpd00007_c0":-1.0,
@@ -23901,7 +23901,7 @@
 }
 },
 {
-"id":"R02519",
+"id":"rxn01825",
 "name":"Homogentisate:oxygen 1,2-oxidoreductase (decyclizing)",
 "metabolites":{
 "cpd00007_c0":-1.0,
@@ -23917,7 +23917,7 @@
 }
 },
 {
-"id":"R03181",
+"id":"rxn02276",
 "name":"4-Maleylacetoacetate cis-trans-isomerase",
 "metabolites":{
 "cpd00763_c0":-1.0,
@@ -23931,7 +23931,7 @@
 }
 },
 {
-"id":"R01364",
+"id":"rxn00993",
 "name":"4-Fumarylacetoacetate fumarylhydrola",
 "metabolites":{
 "cpd00001_c0":-1.0,
@@ -23948,7 +23948,7 @@
 }
 },
 {
-"id":"R00774",
+"id":"rxn00560",
 "name":"Urea:carbon-dioxide ligase (ADP-forming)",
 "metabolites":{
 "cpd00002_c0":-1.0,
@@ -23967,7 +23967,7 @@
 }
 },
 {
-"id":"R00159",
+"id":"rxn00120",
 "name":"UTP diphosphohydrolase",
 "metabolites":{
 "cpd00001_c0":-1.0,
@@ -24000,7 +24000,7 @@
 }
 },
 {
-"id":"R01221",
+"id":"rxn00908",
 "name":"glycine synthase",
 "metabolites":{
 "cpd00003_c0":-1.0,
@@ -24036,7 +24036,7 @@
 }
 },
 {
-"id":"R00533",
+"id":"rxn00383",
 "name":"Sulfite:oxygen oxidoreductase",
 "metabolites":{
 "cpd00001_c0":-1.0,
@@ -24054,7 +24054,7 @@
 }
 },
 {
-"id":"R00025",
+"id":"rxn14250",
 "name":"ethylnitronate:oxygen 2-oxidoreductase (nitrite-forming)",
 "metabolites":{
 "cpd00001_c0":1.0,
@@ -24089,7 +24089,7 @@
 }
 },
 {
-"id":"R08968",
+"id":"rxn13990",
 "name":"ATP:N-acetyl-D-glucosamine 1-phosphotransferase",
 "metabolites":{
 "cpd00002_c0":-1.0,
@@ -24123,7 +24123,7 @@
 }
 },
 {
-"id":"R00258",
+"id":"rxn00191",
 "name":"L-Alanine:2-oxoglutarate aminotransferase",
 "metabolites":{
 "cpd00020_c0":1.0,
@@ -24139,7 +24139,7 @@
 }
 },
 {
-"id":"R00485",
+"id":"rxn00342",
 "name":"L-Asparagine amidohydrolase",
 "metabolites":{
 "cpd00001_c0":-1.0,
@@ -24155,7 +24155,7 @@
 }
 },
 {
-"id":"R01298",
+"id":"rxn00962",
 "name":"4-hydroxybenzoate,NADH:oxygen oxidoreductase (3-hydroxylating)",
 "metabolites":{
 "cpd00001_c0":1.0,
@@ -24174,7 +24174,7 @@
 }
 },
 {
-"id":"R01301",
+"id":"rxn00965",
 "name":"4-Hydroxybenzoyl-CoA hydrolase",
 "metabolites":{
 "cpd00001_c0":-1.0,
@@ -24191,7 +24191,7 @@
 }
 },
 {
-"id":"R06977",
+"id":"rxn04786",
 "name":"L-2,4-diaminobutyrate:2-oxoglutarate 4-aminotransferase",
 "metabolites":{
 "cpd00023_c0":-1.0,
@@ -24207,7 +24207,7 @@
 }
 },
 {
-"id":"R06978",
+"id":"rxn04787",
 "name":"L-2,4-diaminobutyrate acetyltransferase",
 "metabolites":{
 "cpd00010_c0":1.0,
@@ -24224,7 +24224,7 @@
 }
 },
 {
-"id":"R06979",
+"id":"rxn04788",
 "name":"Ectoine hydro-lyase",
 "metabolites":{
 "cpd00001_c0":1.0,
@@ -24239,7 +24239,7 @@
 }
 },
 {
-"id":"R08050",
+"id":"rxn07840",
 "name":"ectoine hydroxylase(ectD)",
 "metabolites":{
 "cpd00007_c0":-1.0,
@@ -24292,7 +24292,7 @@
 }
 },
 {
-"id":"R00997",
+"id":"rxn00738",
 "name":"1-Aminocyclopropane-1-carboxylate (ACC) deaminase",
 "metabolites":{
 "cpd00001_c0":-1.0,
@@ -32336,8 +32336,8 @@
 "cpd00142_c0":1.0,
 "cpd00142_e0":-1.0
 },
-"lower_bound":-1000,
-"upper_bound":0,
+"lower_bound":-1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"PST_0863",
 "annotation":{
 "bigg.reaction":[
@@ -45283,8 +45283,8 @@
 "cpd00523_c0":1.0,
 "cpd00794_e0":-1.0
 },
-"lower_bound":-1000,
-"upper_bound":0,
+"lower_bound":-1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"PST_0988",
 "annotation":{
 "bigg.reaction":[
@@ -50913,7 +50913,7 @@
 }
 },
 {
-"id":"EX-2-hydrobut",
+"id":"EXpd03561",
 "name":"",
 "metabolites":{
 "cpd03561_e0":-1.0
@@ -50939,7 +50939,7 @@
 }
 },
 {
-"id":"EX_D_Malate",
+"id":"EXpd00386",
 "name":"",
 "metabolites":{
 "cpd00386_e0":-1.0
@@ -51090,7 +51090,7 @@
 }
 },
 {
-"id":"R00215",
+"id":"rxn00160",
 "name":"",
 "metabolites":{
 "cpd00003_c0":-1.0,
@@ -51107,7 +51107,7 @@
 }
 },
 {
-"id":"R01000",
+"id":"rxn00741",
 "name":"",
 "metabolites":{
 "cpd00003_c0":-1.0,
@@ -51149,15 +51149,15 @@
 "cpd03561_c0":1.0,
 "cpd03561_e0":-1.0
 },
-"lower_bound":-1000,
-"upper_bound":0,
+"lower_bound":-1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"",
 "annotation":{
 "sbo":"SBO:0000185"
 }
 },
 {
-"id":"ADD_Tur1",
+"id":"EXpd20885",
 "name":"",
 "metabolites":{
 "cpd20885_e0":-1.0
@@ -51205,7 +51205,7 @@
 }
 },
 {
-"id":"ADD_Melibiose1",
+"id":"EXpd29840",
 "name":"",
 "metabolites":{
 "cpd29840_e0":-1.0
@@ -51248,7 +51248,7 @@
 }
 },
 {
-"id":"ADD_Galactose1",
+"id":"EXpd26818",
 "name":"",
 "metabolites":{
 "cpd26818_e0":-1.0
@@ -51289,7 +51289,7 @@
 }
 },
 {
-"id":"ADD_Galactose4",
+"id":"rxn15121",
 "name":"R01092",
 "metabolites":{
 "cpd00002_c0":-1.0,
@@ -51306,7 +51306,7 @@
 }
 },
 {
-"id":"ADD_Galactose5",
+"id":"rxn00355",
 "name":"R00502",
 "metabolites":{
 "cpd00012_c0":1.0,
@@ -51322,7 +51322,7 @@
 }
 },
 {
-"id":"ADD_GlcNAc1",
+"id":"rxn01484",
 "name":"R02059",
 "metabolites":{
 "cpd00001_c0":-1.0,
@@ -51338,7 +51338,7 @@
 }
 },
 {
-"id":"ADD_GlcNAc2",
+"id":"rxn00552",
 "name":"R00765",
 "metabolites":{
 "cpd00001_c0":-1.0,
@@ -51354,7 +51354,7 @@
 }
 },
 {
-"id":"ADD_ManNAc1",
+"id":"EXpd00492",
 "name":"",
 "metabolites":{
 "cpd00492_e0":-1.0
@@ -51381,7 +51381,7 @@
 }
 },
 {
-"id":"ADD_ManNAc3",
+"id":"rxn01951",
 "name":"R02705",
 "metabolites":{
 "cpd00002_c0":-1.0,
@@ -51398,7 +51398,7 @@
 }
 },
 {
-"id":"ADD_ManNAc4",
+"id":"rxn01506",
 "name":"R02087",
 "metabolites":{
 "cpd00293_c0":-1.0,
@@ -51412,7 +51412,7 @@
 }
 },
 {
-"id":"ADD_D_Fuc1",
+"id":"EXpd00750",
 "name":"",
 "metabolites":{
 "cpd00750_e0":-1.0
@@ -51471,7 +51471,7 @@
 }
 },
 {
-"id":"ADD_D_Fuc5",
+"id":"rxn02608",
 "name":"R03671",
 "metabolites":{
 "cpd00001_c0":1.0,
@@ -51486,7 +51486,7 @@
 }
 },
 {
-"id":"ADD_D_Fuc6",
+"id":"rxn02210",
 "name":"R03081",
 "metabolites":{
 "cpd00020_c0":1.0,
@@ -51519,7 +51519,7 @@
 }
 },
 {
-"id":"ADD_L_Fuc1",
+"id":"EXpd00751",
 "name":"",
 "metabolites":{
 "cpd00751_e0":-1.0
@@ -51546,7 +51546,7 @@
 }
 },
 {
-"id":"ADD_L_Fuc3",
+"id":"rxn02263",
 "name":"R03163",
 "metabolites":{
 "cpd00751_c0":-1.0,
@@ -51560,7 +51560,7 @@
 }
 },
 {
-"id":"ADD_L_Fuc4",
+"id":"rxn02319",
 "name":"R03241",
 "metabolites":{
 "cpd00002_c0":-1.0,
@@ -51577,7 +51577,7 @@
 }
 },
 {
-"id":"ADD_L_Fuc5",
+"id":"rxn01620",
 "name":"R02262",
 "metabolites":{
 "cpd00095_c0":1.0,
@@ -51592,7 +51592,7 @@
 }
 },
 {
-"id":"ADD_D_Ara1",
+"id":"EXpd01307",
 "name":"",
 "metabolites":{
 "cpd01307_e0":-1.0
@@ -51619,7 +51619,7 @@
 }
 },
 {
-"id":"ADD_D_Ara3",
+"id":"rxn03883",
 "name":"R05604",
 "metabolites":{
 "cpd00003_c0":-1.0,
@@ -51636,7 +51636,7 @@
 }
 },
 {
-"id":"ADD_L_Ino1",
+"id":"EXpd00121",
 "name":"",
 "metabolites":{
 "cpd00121_e0":-1.0
@@ -51663,7 +51663,7 @@
 }
 },
 {
-"id":"ADD_L_Ino3",
+"id":"rxn00879",
 "name":"R01183",
 "metabolites":{
 "cpd00003_c0":-1.0,
@@ -51680,7 +51680,7 @@
 }
 },
 {
-"id":"ADD_L_Ino4",
+"id":"rxn02007",
 "name":"R02782",
 "metabolites":{
 "cpd00001_c0":1.0,
@@ -51695,7 +51695,7 @@
 }
 },
 {
-"id":"ADD_L_Ino5",
+"id":"rxn12147",
 "name":"R08603",
 "metabolites":{
 "cpd00001_c0":-1.0,
@@ -51711,7 +51711,7 @@
 }
 },
 {
-"id":"ADD_L_Ino6",
+"id":"rxn12146",
 "name":"R08503",
 "metabolites":{
 "cpd04242_c0":1.0,
@@ -51725,7 +51725,7 @@
 }
 },
 {
-"id":"ADD_L_Ino7",
+"id":"rxn03932",
 "name":"R05661",
 "metabolites":{
 "cpd00002_c0":-1.0,
@@ -51742,7 +51742,7 @@
 }
 },
 {
-"id":"ADD_L_Ino8",
+"id":"rxn01176",
 "name":"R05378",
 "metabolites":{
 "cpd00095_c0":1.0,
@@ -51757,7 +51757,7 @@
 }
 },
 {
-"id":"ADD_D_Ser1",
+"id":"EXpd00550",
 "name":"",
 "metabolites":{
 "cpd00550_e0":-1.0
@@ -51784,7 +51784,7 @@
 }
 },
 {
-"id":"ADD_D_Ser3",
+"id":"rxn00166",
 "name":"R00221",
 "metabolites":{
 "cpd00013_c0":1.0,
@@ -51799,7 +51799,7 @@
 }
 },
 {
-"id":"ADD_5oxpro1",
+"id":"EXpd01293",
 "name":"",
 "metabolites":{
 "cpd01293_e0":-1.0
@@ -51845,7 +51845,7 @@
 }
 },
 {
-"id":"ADD_D_Gal14_lac1",
+"id":"EXpd02143",
 "name":"",
 "metabolites":{
 "cpd02143_e0":-1.0
@@ -51872,7 +51872,7 @@
 }
 },
 {
-"id":"ADD_D_Gal14_lac3",
+"id":"rxn02174",
 "name":"R03034",
 "metabolites":{
 "cpd00001_c0":-1.0,
@@ -51888,7 +51888,7 @@
 }
 },
 {
-"id":"ADD_D_Gal14_lac4",
+"id":"rxn02173",
 "name":"R03033",
 "metabolites":{
 "cpd00001_c0":1.0,
@@ -51903,7 +51903,7 @@
 }
 },
 {
-"id":"ADD_D_Gal14_lac5",
+"id":"rxn40366",
 "name":"R10616",
 "metabolites":{
 "cpd00020_c0":1.0,
@@ -51918,7 +51918,7 @@
 }
 },
 {
-"id":"ADD_GABA1",
+"id":"EXpd00281",
 "name":"",
 "metabolites":{
 "cpd00281_e0":-1.0
@@ -51963,7 +51963,7 @@
 }
 },
 {
-"id":"ADD_GABA4",
+"id":"rxn14077",
 "name":"R08714",
 "metabolites":{
 "cpd00020_c0":-1.0,
@@ -51979,7 +51979,7 @@
 }
 },
 {
-"id":"ADD_GALA1",
+"id":"EXpd05262",
 "name":"",
 "metabolites":{
 "cpd05262_e0":-1.0
@@ -52006,7 +52006,7 @@
 }
 },
 {
-"id":"ADD_GALA3",
+"id":"rxn47419",
 "name":"R10841",
 "metabolites":{
 "cpd00003_c0":-1.0,
@@ -52023,7 +52023,7 @@
 }
 },
 {
-"id":"ADD_GALA4",
+"id":"rxn41414",
 "name":"R10846",
 "metabolites":{
 "cpd32793_c0":-1.0,
@@ -52037,7 +52037,7 @@
 }
 },
 {
-"id":"ADD_GALA5",
+"id":"rxn46941",
 "name":"R10847",
 "metabolites":{
 "cpd00067_c0":1.0,
@@ -52052,7 +52052,7 @@
 }
 },
 {
-"id":"ADD_GALA6",
+"id":"rxn01634",
 "name":"R02279",
 "metabolites":{
 "cpd00001_c0":1.0,
@@ -52087,7 +52087,7 @@
 }
 },
 {
-"id":"ADD_D_Glucopyranuronate1",
+"id":"EXpd00164",
 "name":"",
 "metabolites":{
 "cpd00164_e0":-1.0
@@ -52145,7 +52145,7 @@
 }
 },
 {
-"id":"ADD_D_Glucopyranuronate5",
+"id":"rxn01913",
 "name":"R02640",
 "metabolites":{
 "cpd00003_c0":-1.0,
@@ -52162,7 +52162,7 @@
 }
 },
 {
-"id":"ADD_D_Glucopyranuronate6",
+"id":"rxn01393",
 "name":"R01905",
 "metabolites":{
 "cpd00011_c0":1.0,
@@ -52178,7 +52178,7 @@
 }
 },
 {
-"id":"ADD_D_Glucopyranuronate7",
+"id":"rxn01392",
 "name":"R01904",
 "metabolites":{
 "cpd00005_c0":-1.0,
@@ -52195,7 +52195,7 @@
 }
 },
 {
-"id":"ADD_D_Glucopyranuronate8",
+"id":"rxn01385",
 "name":"R01896",
 "metabolites":{
 "cpd00003_c0":-1.0,
@@ -52212,7 +52212,7 @@
 }
 },
 {
-"id":"ADD_cpd00072",
+"id":"EXpd00072",
 "name":"",
 "metabolites":{
 "cpd00072_e0":-1.0
@@ -52239,7 +52239,7 @@
 }
 },
 {
-"id":"ADD_cpd00117",
+"id":"EXpd00117",
 "name":"",
 "metabolites":{
 "cpd00117_e0":-1.0
@@ -52268,7 +52268,7 @@
 }
 },
 {
-"id":"ADD_Inosine1",
+"id":"EXpd00246",
 "name":"",
 "metabolites":{
 "cpd00246_e0":-1.0
@@ -52295,7 +52295,7 @@
 }
 },
 {
-"id":"ADD_Inosine3",
+"id":"rxn01358",
 "name":"",
 "metabolites":{
 "cpd00009_c0":-1.0,
@@ -52311,7 +52311,7 @@
 }
 },
 {
-"id":"ADD_Inosine4",
+"id":"rxn00778",
 "name":"",
 "metabolites":{
 "cpd00101_c0":1.0,
@@ -52325,7 +52325,7 @@
 }
 },
 {
-"id":"EX_cpd00035",
+"id":"EXpd00035",
 "name":"",
 "metabolites":{
 "cpd00035_e0":-1.0
@@ -52346,7 +52346,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpdcpd00132",
+"id":"EXpd00132",
 "name":"",
 "metabolites":{
 "cpd00132_e0":-1.0
